@@ -1,0 +1,9 @@
+Project Objective and Goals Overview
+The objective of this project is to analyze product return patterns to uncover key insights that can improve business decision-making and reduce return-related costs. The primary goal is to determine the most effective way
+to measure returns and identify the root causes behind high return rates. Key findings indicate an inverse correlation between sales and return rates--higher sales often result in lower return rates for certain products. Among
+the various return metrics considered, total cost of returns emerged as the most meaningful measure, offering a clearer understanding of financial impact. However, the best metric to use may vary depending on the specific
+business question being addressed. The analysis revealed that Binders, Paper, Phones, Furnishings, and Accessories are the most frequently returned sub-categories, with Binders and Paper peaking during summer months--likely
+due to seasonal demand shifts such as the end of the school year. Additionally, California shows the highest return rates and also leads in sales across multiple categories (Furniture, Office Supplies, Technology). High-
+frequency return customers include Seth Vernon, William Brown, Ted Butterfield, Sandra Glassco, Dan Reichenbach, and Steania Perrino. To better understand and manage returns, the analysis suggests measuring them by
+geographic location, product category, individual customer behavior, return volume per customer, and time trends (monthly and annually). Seasonal patterns, especially the July-September peak, should be closely monitored
+to anticipate and mitigate returns more effectively.
